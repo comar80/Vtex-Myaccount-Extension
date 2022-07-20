@@ -1,5 +1,6 @@
 {
   "store/userPoints.link": "Puntos de Fidelidad",
   "store/userPoints.title": "Puntos de Fidelidad",
-  "store/userPoints.message": "Tienes 0 Puntos de Fidelidad"
+  "store/userPoints.messagePartOne": "Tienes",
+  "store/userPoints.messagePartTwo": "Puntos de Fidelidad"
 }

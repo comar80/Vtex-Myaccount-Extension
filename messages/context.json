@@ -1,5 +1,6 @@
 {
   "store/userPoints.link": "Reward Points",
   "store/userPoints.title": "Reward Points",
-  "store/userPoints.message": "You have 0 Reward Points"
+  "store/userPoints.messagePartOne": "You have",
+  "store/userPoints.messagePartTwo": "Reward Points"
 }
